@@ -15,6 +15,6 @@ to have a Google account of some type (Gmail works). Then, in your Chrome browse
 enter the following:
 
 ```angular2
-https://colab.research.google.com/github/TLKline/AIHC5010/blob/master/Notebook/Classification_Task.ipynb
+https://colab.research.google.com/github/TLKline/AIHC5010/blob/master/Notebooks/Classification_Task.ipynb
 ```
 
