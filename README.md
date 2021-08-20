@@ -3,6 +3,10 @@ Repository for course materials for AIHC 5010.
 
 Author: Timothy Kline PhD, kline.timothy@mayo.edu
 
+Course Directors: Timothy Kline, Hongfang Liu
+Course Faculty: Panagiotis Korfiatis, Che Ngufor 
+Teaching Assistants: Darryl Wright, Xiaoyang Ruan, Gian Marco Conte, Nan Zhang
+
 Purpose:
 --
 These are the Jupyter notebooks covered in Machine Learning 1 - Training Your First Models. They are most easily run on google colab, but can be downloaded and run locally as well. The next sections show how to run. 
